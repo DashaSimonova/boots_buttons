@@ -1,0 +1,3 @@
+Изменения:
+1) В ветке master в файле human.txt добавились шапка и ботинки;
+2) В ветке master в файле README добавилась строчка "with nice buttons on his jacket (buttons branch)"
