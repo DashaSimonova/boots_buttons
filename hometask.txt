@@ -1,3 +1,13 @@
 Изменения:
 1) В ветке master в файле human.txt добавились шапка и ботинки;
 2) В ветке master в файле README добавилась строчка "with nice buttons on his jacket (buttons branch)"
+
+Комментарии из коммитов:
+init
+heat added
+boots
+Merge branch 'boots' into release
+README added
+dots
+fix readme
+Merge branch 'buttons' into demo
